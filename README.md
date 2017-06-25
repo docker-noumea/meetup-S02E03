@@ -4,3 +4,5 @@ Nous verrons comment déployer en quelques minutes un site web sur un serveur pr
 
 http://rancher.com/rancher/
 
+Accès à la vidéo Youtube : https://www.youtube.com/watch?v=l_JHyHo3EF4
+
